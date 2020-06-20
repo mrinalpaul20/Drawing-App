@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#2378F5</color>
+    <color name="colorPrimaryDark">#123CD1</color>
+    <color name="colorAccent">#FF9E55</color>
+    <color name="background">#E9F1F8</color>
+    <color name="dull">#50161515</color>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58465873159",
+    "firebase_url": "https://fir-e4d89.firebaseio.com",
+    "project_id": "fir-e4d89",
+    "storage_bucket": "fir-e4d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58465873159:android:4d6965c44b0b92496469a2",
+        "android_client_info": {
+          "package_name": "com.mrinal.zersey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58465873159-epc2kf6ml0eiuvrnsqbo54skpbma90e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegW6TEPjsNjC_JIk8yZmgwnSmuPeGHMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58465873159-epc2kf6ml0eiuvrnsqbo54skpbma90e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

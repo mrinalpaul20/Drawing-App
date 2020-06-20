@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mrinal.zersey">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="androidx.multidex.MultiDexApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".activities.ViewDrawingActivity"
+            android:theme="@style/FullScreen" />
+        <activity
+            android:name=".activities.DashboardActivity"
+            android:label="Dashboard"
+            android:parentActivityName=".activities.HomeActivity" />
+        <activity
+            android:name=".activities.DrawingActivity"
+            android:label="Drawing"
+            android:parentActivityName=".activities.HomeActivity" />
+        <activity
+            android:name=".activities.HomeActivity"
+            android:label="Home" />
+        <activity
+            android:name=".activities.AuthenticationActivity"
+            android:noHistory="true"
+            android:theme="@style/FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

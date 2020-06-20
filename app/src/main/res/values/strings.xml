@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Zersey-Paint</string>
+    <string name="clear">Clear</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="erase">Erase</string>
+    <string name="brush">Brush</string>
+    <string name="save">Save</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or">OR</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SignUp</string>
+    <string name="paint">Paint</string>
+    <string name="lets_paint">Lets Paint!\nDraw your imagination</string>
+    <string name="go_to_dashboard">Go to Dashboard\nEmbrace your fellow artists</string>
+    <string name="logout">Logout</string>
+    <string name="drawing">Drawing</string>
+    <string name="by">By</string>
+    <string name="save_drawing">Save Drawing</string>
+    <string name="save_to_dashboard">Save this Drawing to Dashboard - Let Others see your work?</string>
+    <string name="requires_internet">* Requires Internet</string>
+    <string name="title">Write Something about this drawing</string>
+    <string name="try_later"> Please try again later.</string>
+    <string name="draw">Draw</string>
+    <string name="close">Close</string>
+</resources>
